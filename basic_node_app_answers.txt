@@ -1,0 +1,6 @@
+1. A node module is an example of the separation of concerns where each module contains code pertaining to a specific area or topic. It encapsulates functionality and allows for modular programming.
+
+2. Exports is a reference to module.exports and allows you to assign things to it without overwriting the module.exports variable. module.exports is a empty object that can be imported in any other js file.
+
+3. This is because it is not as strict as module.exports and using it will not overwrite module.exports and results in writing less code.
+
